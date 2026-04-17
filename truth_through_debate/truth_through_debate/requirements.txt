@@ -1,0 +1,8 @@
+groq>=0.9.0            # Free API — get key at console.groq.com
+datasets>=2.18.0       # HuggingFace datasets (FEVER)
+pandas>=2.0.0
+numpy>=1.26.0
+scikit-learn>=1.4.0
+tqdm>=4.66.0
+rich>=13.7.0           # Pretty terminal output
+python-dotenv>=1.0.0
